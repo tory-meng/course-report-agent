@@ -13,7 +13,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CODE_DIRS = {'report_agent','model_service','training','scripts','tests','prompts','examples','docs','templates','validation','.github'}
 ROOT_FILES = {'README.md','RELEASE_NOTES.md','LICENSE_NOTICE.md','.gitignore','.gitattributes',
-              'run_report.py','train_v2.py','requirements-docagent.txt','requirements-ml.txt',
+              'run_report.py','train_v2.py','requirements.txt','requirements-docagent.txt','requirements-ml.txt',
               'requirements-structured.txt','requirements-test.txt'}
 NOTES = {'models/README.md','data/README.md','inputs/README.md','outputs/README.md',
          'knowledge/README.md','cases/README.md','inputs/current/.gitkeep','inputs/references/.gitkeep'}

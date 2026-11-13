@@ -1,0 +1,3 @@
+# Default entry point for document processing and CPU tests.
+# GPU inference/training dependencies remain in requirements-ml.txt.
+-r requirements-test.txt

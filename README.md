@@ -71,10 +71,10 @@ sudo apt-get update
 sudo apt-get install -y libreoffice-writer fonts-noto-cjk
 python3.11 -m venv .venv-doc
 source .venv-doc/bin/activate
-python -m pip install -r requirements-test.txt
+python -m pip install -r requirements.txt
 ```
 
-`requirements-test.txt` 包含文档处理、JSON Schema 和约束解码测试依赖，不安装 PyTorch。可提取文字的文档不需要 OCR；扫描资料再安装 `tesseract-ocr tesseract-ocr-chi-sim` 并在 case 启用 `ocr`。
+`requirements.txt` 是默认 CPU 依赖入口，通过 `requirements-test.txt` 引入文档处理、JSON Schema 和约束解码测试依赖，不安装 PyTorch。工作流的 pip 缓存显式跟踪这些拆分文件。可提取文字的文档不需要 OCR；扫描资料再安装 `tesseract-ocr tesseract-ocr-chi-sim` 并在 case 启用 `ocr`。
 
 ### 3.2 GPU 推理与训练环境
 
