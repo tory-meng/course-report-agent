@@ -1,0 +1,3 @@
+# 约束解码依赖；CPU测试和GPU推理都需要，复用已有GPU环境时避免顺带升级PyTorch。
+lm-format-enforcer==0.11.3
+jsonschema>=4.18,<5

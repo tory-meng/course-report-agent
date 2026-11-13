@@ -1,0 +1,10 @@
+{
+  "reference_library": {
+    "enabled": true,
+    "source": "inputs/references",
+    "db": "knowledge/references.sqlite3",
+    "top_k": 2,
+    "max_chars_per_hit": 700,
+    "verify_sources": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "initialization": "continue_adapter",
+  "model_path": "models/base_model",
+  "adapter_path": "models/report_adapter",
+  "expected_adapter_sha256": {},
+  "max_length": 4096,
+  "batch_size": 1,
+  "gradient_accumulation_steps": 8,
+  "smoke_gradient_accumulation_steps": 4,
+  "epochs": 1,
+  "learning_rate": 5e-06,
+  "warmup_fraction": 0.03,
+  "seed": 42,
+  "checkpoint_interval": 25,
+  "save_total_limit": 3,
+  "optimizer": "paged_adamw_8bit",
+  "attention_implementation": "sdpa",
+  "minimum_free_gib": 18
+}

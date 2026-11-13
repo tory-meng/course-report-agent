@@ -1,0 +1,48 @@
+{
+  "id": "synthetic_course_demo",
+  "group_id": "synthetic_course_demo",
+  "synthetic_demo": true,
+  "report_type": "course",
+  "course_name": "软件工程示例课程（合成数据）",
+  "facts_path": "examples/demo_course/facts.json",
+  "sources": [
+    {
+      "id": "policy",
+      "path": "examples/demo_course/policy.txt",
+      "role": "rule",
+      "kind": "document"
+    },
+    {
+      "id": "grades",
+      "path": "examples/demo_course/grades.csv",
+      "role": "current",
+      "kind": "grades"
+    }
+  ],
+  "grade_tables": [
+    {
+      "source_id": "grades",
+      "sheet": "grades",
+      "header_row": 1,
+      "student_id": 1,
+      "name": 2,
+      "total": 6,
+      "status": 7,
+      "items": {
+        "I1": 3,
+        "I2": 4,
+        "I3": 5
+      }
+    }
+  ],
+  "evaluation_policy": {
+    "normal": "include",
+    "missing": "exclude",
+    "absent": "exclude",
+    "deferred": "exclude",
+    "exempt": "exclude",
+    "source_refs": [
+      "policy:L2"
+    ]
+  }
+}

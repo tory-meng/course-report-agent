@@ -1,0 +1,32 @@
+name: CPU checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  tests:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install document dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libreoffice-writer fonts-noto-cjk
+          python -m pip install -r requirements-test.txt
+      - name: Check tracked release files
+        run: python scripts/check_release.py --mode tracked
+      - name: Build public template and run tests
+        env:
+          PYTHONDONTWRITEBYTECODE: '1'
+        run: |
+          python scripts/build_demo_template.py
+          python scripts/check_environment.py --runtime configs/runtime.example.json
+          python -m unittest discover -s tests -q
+      - name: Run synthetic document pipeline
+        run: |
+          python run_report.py run --case examples/demo_course/case.json --runtime configs/runtime.example.json --out outputs/ci_demo --offline

@@ -1,0 +1,57 @@
+{
+  "release_date": "2026-11-13",
+  "timezone": "Asia/Shanghai",
+  "status": "passed",
+  "unit_tests": {
+    "passed": 344,
+    "skipped": 0,
+    "command": "python -m unittest discover -s tests -q"
+  },
+  "offline_demo": {
+    "synthetic_only": true,
+    "model_used": false,
+    "registered_students": 12,
+    "table_types": 11,
+    "charts_filled": 17,
+    "missing_items": [],
+    "word_and_pdf_created": true,
+    "local_converter_pdf_pages": 13
+  },
+  "visual_review": {
+    "status": "passed",
+    "canonical_renderer_pdf_pages": 15,
+    "all_pages_reviewed": true,
+    "native_omml_equations": 2,
+    "signature_orphan_page_fixed": true,
+    "note": "Different LibreOffice versions may paginate the same Word differently; canonical render and local converter are recorded separately. Demo outputs are not distributed."
+  },
+  "tokenizer_replay": {
+    "passed": true,
+    "checks": 5,
+    "model_weights_loaded": false
+  },
+  "portability": {
+    "fresh_directory_unit_tests": "passed_344_no_skips",
+    "fresh_directory_offline_demo": "passed",
+    "environment_check": "passed",
+    "release_checker": "passed_on_clean_public_file_selection",
+    "git_add_and_tracked_release_check": "passed",
+    "tracked_public_files": 169
+  },
+  "original_project_integrity": {
+    "protected_files": 643,
+    "changed_files": 0
+  },
+  "gpu_training_executed_for_release": false,
+  "model_service_started_or_replaced": false,
+  "excluded": [
+    "base model and all adapters/checkpoints",
+    "private SFT datasets and review decisions",
+    "real course files/student score sheets",
+    "reference database",
+    "historical/current report outputs",
+    "machine-specific runtime/configs",
+    "caches and logs"
+  ],
+  "scope": "CPU and tokenizer verification of this public experiment package; historical GPU training metrics are documented separately in docs/EXPERIMENTS.md."
+}

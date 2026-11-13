@@ -1,0 +1,8 @@
+{
+  "root": "inputs/current",
+  "latest_registry": "knowledge/material_catalog_index.json",
+  "missing_grades_action": "stop_before_model",
+  "graduation_design_generation": false,
+  "all_current_course_packages_available_for_development": false,
+  "automatic_background_scanning": false
+}

@@ -1,0 +1,13 @@
+{
+  "templates": {
+    "course": {
+      "enabled": true,
+      "template_id": "public_course_demo_r1",
+      "contract": "templates/course/buu_course_r2/template_contract.json"
+    },
+    "graduation": {
+      "enabled": false,
+      "reason": "本实验包未提供毕业设计模板与评价规则。"
+    }
+  }
+}

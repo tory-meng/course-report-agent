@@ -1,0 +1,25 @@
+{
+  "id": "course_case_001",
+  "group_id": "同一课程代码跨章节保持同组",
+  "report_type": "course",
+  "course_name": "填写当前课程名称",
+  "sources": [
+    {
+      "id": "syllabus",
+      "path": "inputs/current/course_case_001/课程大纲.docx",
+      "role": "current",
+      "kind": "document"
+    },
+    {
+      "id": "grades",
+      "path": "inputs/current/course_case_001/成绩单.xls",
+      "role": "current",
+      "kind": "grades"
+    }
+  ],
+  "grade_tables": [],
+  "evaluation_policy": {},
+  "ocr": false,
+  "extract_chunk_chars": 2000,
+  "decision_policy": {"mode": "grade_first_minimal_v1", "model_review": true}
+}

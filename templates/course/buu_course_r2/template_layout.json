@@ -1,0 +1,920 @@
+{
+  "version": "public_course_layout_v1",
+  "origin": "generic_placeholder_structure_rebuilt_without_original_images_or_branding",
+  "body_nodes": [
+    {
+      "index": 0,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 1,
+      "kind": "paragraph",
+      "text": "【学院名称】"
+    },
+    {
+      "index": 2,
+      "kind": "paragraph",
+      "text": "《【课程名称】》"
+    },
+    {
+      "index": 3,
+      "kind": "paragraph",
+      "text": "课程目标达成情况评价报告"
+    },
+    {
+      "index": 4,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 5,
+      "kind": "paragraph",
+      "text": "学生所在班级： 【班级名称】"
+    },
+    {
+      "index": 6,
+      "kind": "paragraph",
+      "text": "学                院： 【学院名称】"
+    },
+    {
+      "index": 7,
+      "kind": "paragraph",
+      "text": "专                业： 【专业名称】"
+    },
+    {
+      "index": 8,
+      "kind": "paragraph",
+      "text": "主   讲   教  师： 【教师姓名】"
+    },
+    {
+      "index": 9,
+      "kind": "paragraph",
+      "text": "【报告年】年【月】月【日】日"
+    },
+    {
+      "index": 10,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 11,
+      "kind": "paragraph",
+      "text": "1 评价课程及样本基本信息"
+    },
+    {
+      "index": 12,
+      "kind": "paragraph",
+      "text": "课程名称： 【课程名称】"
+    },
+    {
+      "index": 13,
+      "kind": "paragraph",
+      "text": "课程编码： 【课程代码】"
+    },
+    {
+      "index": 14,
+      "kind": "paragraph",
+      "text": "课程性质： 【课程性质】"
+    },
+    {
+      "index": 15,
+      "kind": "paragraph",
+      "text": "课程类别： 【课程类别】"
+    },
+    {
+      "index": 16,
+      "kind": "paragraph",
+      "text": "学时： 【总学时】"
+    },
+    {
+      "index": 17,
+      "kind": "paragraph",
+      "text": "学分： 【学分】"
+    },
+    {
+      "index": 18,
+      "kind": "paragraph",
+      "text": "开课年级： 【年级】"
+    },
+    {
+      "index": 19,
+      "kind": "paragraph",
+      "text": "开课学期： 【学期】"
+    },
+    {
+      "index": 20,
+      "kind": "paragraph",
+      "text": "适用专业： 【专业】"
+    },
+    {
+      "index": 21,
+      "kind": "paragraph",
+      "text": "评价样本：本次评价的课程是于【学年】学年第【学期序号】学期开设的《【课程名称】》，评价样本为【年级】级【专业】专业【班级范围】的【登记人数】名学生。"
+    },
+    {
+      "index": 22,
+      "kind": "paragraph",
+      "text": "2 课程目标及其对毕业要求观测点的支撑关系"
+    },
+    {
+      "index": 23,
+      "kind": "paragraph",
+      "text": "2.1 课程支撑的毕业要求观测点"
+    },
+    {
+      "index": 24,
+      "kind": "paragraph",
+      "text": "《【课程名称】》课程支撑的毕业要求观测点如下表所示："
+    },
+    {
+      "index": 25,
+      "kind": "paragraph",
+      "text": "表2-1 课程支撑的毕业要求观测点"
+    },
+    {
+      "index": 26,
+      "kind": "table"
+    },
+    {
+      "index": 27,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 28,
+      "kind": "paragraph",
+      "text": "2.2 课程目标"
+    },
+    {
+      "index": 29,
+      "kind": "paragraph",
+      "text": "《【课程名称】》课程的课程目标如下："
+    },
+    {
+      "index": 30,
+      "kind": "paragraph",
+      "text": "课程目标1：【目标1完整表述，说明知识、能力或素养要求】"
+    },
+    {
+      "index": 31,
+      "kind": "paragraph",
+      "text": "课程目标2：【目标2完整表述，说明知识、能力或素养要求】"
+    },
+    {
+      "index": 32,
+      "kind": "paragraph",
+      "text": "课程目标3：【目标3完整表述，说明知识、能力或素养要求】"
+    },
+    {
+      "index": 33,
+      "kind": "paragraph",
+      "text": "2.3 课程目标与毕业要求观测点关系"
+    },
+    {
+      "index": 34,
+      "kind": "paragraph",
+      "text": "《【课程名称】》课程支撑的毕业要求观测点与课程目标的映射关系如下表所示："
+    },
+    {
+      "index": 35,
+      "kind": "paragraph",
+      "text": "表2-2 课程目标与毕业要求观测点映射关系"
+    },
+    {
+      "index": 36,
+      "kind": "table"
+    },
+    {
+      "index": 37,
+      "kind": "paragraph",
+      "text": "2.4 课程教学方式"
+    },
+    {
+      "index": 38,
+      "kind": "paragraph",
+      "text": "《【课程名称】》课程教学方式如下："
+    },
+    {
+      "index": 39,
+      "kind": "paragraph",
+      "text": "（1）【教学方式1】：【说明该方式的具体教学活动、涉及内容及能力训练，依据本课程材料填写。】"
+    },
+    {
+      "index": 40,
+      "kind": "paragraph",
+      "text": "（2）【教学方式2】：【说明该方式的具体教学活动、涉及内容及能力训练，依据本课程材料填写。】"
+    },
+    {
+      "index": 41,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 42,
+      "kind": "paragraph",
+      "text": "（3）【教学方式3】：【说明该方式的具体教学活动、涉及内容及能力训练，依据本课程材料填写。】"
+    },
+    {
+      "index": 43,
+      "kind": "paragraph",
+      "text": "（4）【教学方式4】：【说明该方式的具体教学活动、涉及内容及能力训练，依据本课程材料填写。】"
+    },
+    {
+      "index": 44,
+      "kind": "paragraph",
+      "text": "2.5 课程教学方式与课程目标的关系"
+    },
+    {
+      "index": 45,
+      "kind": "paragraph",
+      "text": "《【课程名称】》课程目标实现的教学方式如下表所示："
+    },
+    {
+      "index": 46,
+      "kind": "paragraph",
+      "text": "表2-3 课程目标实现的教学方式"
+    },
+    {
+      "index": 47,
+      "kind": "table"
+    },
+    {
+      "index": 48,
+      "kind": "paragraph",
+      "text": "2.6 学生成绩评定方法"
+    },
+    {
+      "index": 49,
+      "kind": "paragraph",
+      "text": "《【课程名称】》课程学生成绩的考核方式："
+    },
+    {
+      "index": 50,
+      "kind": "paragraph",
+      "text": "最终成绩＝【考核方式A原始成绩】×【总评权重A】＋【考核方式B原始成绩】×【总评权重B】，满分【总评满分】分。"
+    },
+    {
+      "index": 51,
+      "kind": "paragraph",
+      "text": "【考核方式B】由【考核项B1】和【考核项B2】组成，折合总评满分分别为【分值B1】分和【分值B2】分。"
+    },
+    {
+      "index": 52,
+      "kind": "paragraph",
+      "text": "表2-4 学生课程成绩考核方式"
+    },
+    {
+      "index": 53,
+      "kind": "table"
+    },
+    {
+      "index": 54,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 55,
+      "kind": "paragraph",
+      "text": "3 课程目标与考核"
+    },
+    {
+      "index": 56,
+      "kind": "paragraph",
+      "text": "3.1 课程目标与考核项的关系"
+    },
+    {
+      "index": 57,
+      "kind": "paragraph",
+      "text": "表3-1 课程成绩考核项中课程目标权重"
+    },
+    {
+      "index": 58,
+      "kind": "table"
+    },
+    {
+      "index": 59,
+      "kind": "paragraph",
+      "text": "3.2 考核方式支撑课程目标的权重关系"
+    },
+    {
+      "index": 60,
+      "kind": "paragraph",
+      "text": "表3-2 课程考核方式支撑课程目标权重"
+    },
+    {
+      "index": 61,
+      "kind": "table"
+    },
+    {
+      "index": 62,
+      "kind": "paragraph",
+      "text": "4 教学环节与毕业要求观测点的关系"
+    },
+    {
+      "index": 63,
+      "kind": "paragraph",
+      "text": "表4-1 课程教学环节与毕业要求观测点"
+    },
+    {
+      "index": 64,
+      "kind": "table"
+    },
+    {
+      "index": 65,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 66,
+      "kind": "paragraph",
+      "text": "5 课程目标达成情况评价"
+    },
+    {
+      "index": 67,
+      "kind": "paragraph",
+      "text": "5.1 课程目标达成标准"
+    },
+    {
+      "index": 68,
+      "kind": "paragraph",
+      "text": "课程考核成绩采用【评价方法】。依据【制度或标准名称及版本】，结合【本课程适用条件】，将课程目标达成标准设定为【达成阈值】。不同目标采用不同标准时，分别列示。"
+    },
+    {
+      "index": 69,
+      "kind": "paragraph",
+      "text": "5.2 课程目标达成情况计算方法"
+    },
+    {
+      "index": 70,
+      "kind": "paragraph",
+      "text": "某位学生课程目标i的达成情况、课程目标i的达成率分别采用（式-1）和（式-2）计算。"
+    },
+    {
+      "index": 71,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 72,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 73,
+      "kind": "paragraph",
+      "text": "5.3 课程目标达成情况评价数据及结果"
+    },
+    {
+      "index": 74,
+      "kind": "paragraph",
+      "text": "5.3.1 成绩达成信息"
+    },
+    {
+      "index": 75,
+      "kind": "paragraph",
+      "text": "下表给出了【年级】级【专业】专业《【课程名称】》成绩达成信息。"
+    },
+    {
+      "index": 76,
+      "kind": "paragraph",
+      "text": "最终成绩由【方式A】和【方式B】构成；本表各考核方式成绩采用【折合总评分／原始百分制】口径。"
+    },
+    {
+      "index": 77,
+      "kind": "paragraph",
+      "text": "表5-1《【课程名称】》成绩统计信息"
+    },
+    {
+      "index": 78,
+      "kind": "table"
+    },
+    {
+      "index": 79,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 80,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 81,
+      "kind": "paragraph",
+      "text": "下方图表给出了《【课程名称】》最终成绩分布统计信息。"
+    },
+    {
+      "index": 82,
+      "kind": "table"
+    },
+    {
+      "index": 83,
+      "kind": "paragraph",
+      "text": "《【课程名称】》成绩分布统计表"
+    },
+    {
+      "index": 84,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 85,
+      "kind": "paragraph",
+      "text": "《【课程名称】》成绩分布柱状图"
+    },
+    {
+      "index": 86,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 87,
+      "kind": "paragraph",
+      "text": "《【课程名称】》成绩分布饼状图"
+    },
+    {
+      "index": 88,
+      "kind": "paragraph",
+      "text": "下图给出了【年级】级【专业】专业《【课程名称】》最终成绩的学生个体分布情况。"
+    },
+    {
+      "index": 89,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 90,
+      "kind": "paragraph",
+      "text": "《【课程名称】》学生个体最终成绩分布图"
+    },
+    {
+      "index": 91,
+      "kind": "paragraph",
+      "text": "【结合分布说明主要现象与需关注群体，限60至120字。】"
+    },
+    {
+      "index": 92,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 93,
+      "kind": "paragraph",
+      "text": "5.3.2 考核方式达成信息"
+    },
+    {
+      "index": 94,
+      "kind": "paragraph",
+      "text": "（1）《【课程名称】》【考核方式A】达成情况"
+    },
+    {
+      "index": 95,
+      "kind": "paragraph",
+      "text": "下表给出了【年级】级【专业】专业《【课程名称】》【考核方式A】的观测点达成情况。"
+    },
+    {
+      "index": 96,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 97,
+      "kind": "paragraph",
+      "text": "《【课程名称】》【考核方式A】达成表"
+    },
+    {
+      "index": 98,
+      "kind": "paragraph",
+      "text": "（2）《【课程名称】》【考核方式A】学生个体达成情况"
+    },
+    {
+      "index": 99,
+      "kind": "paragraph",
+      "text": "下表给出了【年级】级【专业】专业《【课程名称】》【考核方式A】支撑观测点【点A1】的个体达成情况。"
+    },
+    {
+      "index": 100,
+      "kind": "paragraph",
+      "text": "其中未达标人员：【学生标识及未达标值，或经核验无未达标人员】。"
+    },
+    {
+      "index": 101,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 102,
+      "kind": "paragraph",
+      "text": "《【课程名称】》【考核方式A】支撑观测点【点A1】学生个体达成表"
+    },
+    {
+      "index": 103,
+      "kind": "paragraph",
+      "text": "（3）《【课程名称】》【考核方式B】达成情况"
+    },
+    {
+      "index": 104,
+      "kind": "paragraph",
+      "text": "下表给出了【年级】级【专业】专业《【课程名称】》【考核方式B】的观测点达成情况。"
+    },
+    {
+      "index": 105,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 106,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 107,
+      "kind": "paragraph",
+      "text": "《【课程名称】》【考核方式B】达成表"
+    },
+    {
+      "index": 108,
+      "kind": "paragraph",
+      "text": "（4）《【课程名称】》【考核方式B】学生个体达成情况"
+    },
+    {
+      "index": 109,
+      "kind": "paragraph",
+      "text": "下图给出了【考核方式B】支撑观测点【点B1】的学生个体达成情况。"
+    },
+    {
+      "index": 110,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 111,
+      "kind": "paragraph",
+      "text": "《【课程名称】》【考核方式B】支撑观测点【点B1】学生个体达成表"
+    },
+    {
+      "index": 112,
+      "kind": "paragraph",
+      "text": "下图给出了【考核方式B】支撑观测点【点B2】的学生个体达成情况。"
+    },
+    {
+      "index": 113,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 114,
+      "kind": "paragraph",
+      "text": "《【课程名称】》【考核方式B】支撑观测点【点B2】学生个体达成表"
+    },
+    {
+      "index": 115,
+      "kind": "paragraph",
+      "text": "下图给出了【考核方式B】支撑观测点【点B3】的学生个体达成情况。"
+    },
+    {
+      "index": 116,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 117,
+      "kind": "paragraph",
+      "text": "《【课程名称】》【考核方式B】支撑观测点【点B3】学生个体达成表"
+    },
+    {
+      "index": 118,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 119,
+      "kind": "paragraph",
+      "text": "5.3.3 课程目标达成信息"
+    },
+    {
+      "index": 120,
+      "kind": "paragraph",
+      "text": "（1）《【课程名称】》课程目标达成情况"
+    },
+    {
+      "index": 121,
+      "kind": "paragraph",
+      "text": "下表给出了【年级】级【专业】专业《【课程名称】》课程目标达成情况。"
+    },
+    {
+      "index": 122,
+      "kind": "table"
+    },
+    {
+      "index": 123,
+      "kind": "paragraph",
+      "text": "下图给出了各课程目标的达成标准、最低值、平均值和最高值。"
+    },
+    {
+      "index": 124,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 125,
+      "kind": "paragraph",
+      "text": "《【课程名称】》课程目标达成度"
+    },
+    {
+      "index": 126,
+      "kind": "paragraph",
+      "text": "（2）《【课程名称】》课程目标学生个体达成情况"
+    },
+    {
+      "index": 127,
+      "kind": "paragraph",
+      "text": "下图给出了课程目标1的学生个体达成情况。"
+    },
+    {
+      "index": 128,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 129,
+      "kind": "paragraph",
+      "text": "《【课程名称】》课程目标1 学生个体达成度"
+    },
+    {
+      "index": 130,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 131,
+      "kind": "paragraph",
+      "text": "下图给出了【年级】级【专业】专业《【课程名称】》课程目标2达成情况。"
+    },
+    {
+      "index": 132,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 133,
+      "kind": "paragraph",
+      "text": "《【课程名称】》课程目标2 学生个体达成度"
+    },
+    {
+      "index": 134,
+      "kind": "paragraph",
+      "text": "【目标2的未达标人数及集中问题；无个体证据时只说明分布，不推断原因。】"
+    },
+    {
+      "index": 135,
+      "kind": "paragraph",
+      "text": "下图给出了【年级】级【专业】专业《【课程名称】》课程目标3达成情况。"
+    },
+    {
+      "index": 136,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 137,
+      "kind": "paragraph",
+      "text": "《【课程名称】》课程目标3 学生个体达成度"
+    },
+    {
+      "index": 138,
+      "kind": "paragraph",
+      "text": "【目标3的未达标人数及集中问题；无个体证据时只说明分布，不推断原因。】"
+    },
+    {
+      "index": 139,
+      "kind": "paragraph",
+      "text": "【课程目标综合分析，指出主要差异及下一步需核验的证据，限80至150字。】"
+    },
+    {
+      "index": 140,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 141,
+      "kind": "paragraph",
+      "text": "5.3.4 毕业要求观测点达成信息"
+    },
+    {
+      "index": 142,
+      "kind": "paragraph",
+      "text": "（1）《【课程名称】》毕业要求观测点达成情况"
+    },
+    {
+      "index": 143,
+      "kind": "paragraph",
+      "text": "下表给出了【年级】级【专业】专业《【课程名称】》观测点达成信息。"
+    },
+    {
+      "index": 144,
+      "kind": "table"
+    },
+    {
+      "index": 145,
+      "kind": "paragraph",
+      "text": "下图给出了【年级】级【专业】专业《【课程名称】》观测点达成情况图。"
+    },
+    {
+      "index": 146,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 147,
+      "kind": "paragraph",
+      "text": "《【课程名称】》观测点达成表"
+    },
+    {
+      "index": 148,
+      "kind": "paragraph",
+      "text": "【概括各观测点结果及需关注项目，说明贡献值的口径，限60至120字。】"
+    },
+    {
+      "index": 149,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 150,
+      "kind": "paragraph",
+      "text": "（2）《【课程名称】》毕业要求观测点学生个体达成情况"
+    },
+    {
+      "index": 151,
+      "kind": "paragraph",
+      "text": "下图给出了【年级】级【专业】专业《【课程名称】》观测点【点1】达成信息。"
+    },
+    {
+      "index": 152,
+      "kind": "paragraph",
+      "text": "其中未达标人员：【学生标识及达成值／经核验无未达标人员】。"
+    },
+    {
+      "index": 153,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 154,
+      "kind": "paragraph",
+      "text": "《【课程名称】》观测点【点1】学生个体达成表"
+    },
+    {
+      "index": 155,
+      "kind": "paragraph",
+      "text": "下图给出了【年级】级【专业】专业《【课程名称】》观测点【点2】达成信息。"
+    },
+    {
+      "index": 156,
+      "kind": "paragraph",
+      "text": "其中未达标人员：【学生标识及达成值／经核验无未达标人员】。"
+    },
+    {
+      "index": 157,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 158,
+      "kind": "paragraph",
+      "text": "《【课程名称】》观测点【点2】学生个体达成表"
+    },
+    {
+      "index": 159,
+      "kind": "paragraph",
+      "text": "下图给出了【年级】级【专业】专业《【课程名称】》观测点【点3】达成信息。"
+    },
+    {
+      "index": 160,
+      "kind": "paragraph",
+      "text": "其中未达标人员：【学生标识及达成值／经核验无未达标人员】。"
+    },
+    {
+      "index": 161,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 162,
+      "kind": "paragraph",
+      "text": "《【课程名称】》观测点【点3】学生个体达成表"
+    },
+    {
+      "index": 163,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 164,
+      "kind": "paragraph",
+      "text": "6 上一轮评价结果的改进情况"
+    },
+    {
+      "index": 165,
+      "kind": "paragraph",
+      "text": "6.1 上一轮课程目标达成情况评价提出的改进措施"
+    },
+    {
+      "index": 166,
+      "kind": "paragraph",
+      "text": "【上一轮学年学期】《【课程名称】》课程评价发现【主要问题概述】，依据为【上一轮报告或记录位置】。"
+    },
+    {
+      "index": 167,
+      "kind": "paragraph",
+      "text": "存在以下不足和需要改进的地方："
+    },
+    {
+      "index": 168,
+      "kind": "paragraph",
+      "text": "（1）【上一轮问题1及具体证据，不填写本轮新发现的问题】。"
+    },
+    {
+      "index": 169,
+      "kind": "paragraph",
+      "text": "（2）【上一轮问题2及具体证据，不填写本轮新发现的问题】。"
+    },
+    {
+      "index": 170,
+      "kind": "paragraph",
+      "text": "（3）【上一轮问题3及具体证据，不填写本轮新发现的问题】。"
+    },
+    {
+      "index": 171,
+      "kind": "paragraph",
+      "text": "提出改进措施："
+    },
+    {
+      "index": 172,
+      "kind": "paragraph",
+      "text": "（1）【针对问题1确定的改进措施、适用对象与责任安排】。"
+    },
+    {
+      "index": 173,
+      "kind": "paragraph",
+      "text": "（2）【针对问题2确定的改进措施、适用对象与责任安排】。"
+    },
+    {
+      "index": 174,
+      "kind": "paragraph",
+      "text": "（3）【针对问题3确定的改进措施、适用对象与责任安排】。"
+    },
+    {
+      "index": 175,
+      "kind": "paragraph",
+      "text": "6.2 持续改进措施在本轮授课过程中的实施"
+    },
+    {
+      "index": 176,
+      "kind": "paragraph",
+      "text": "【本轮实施记录：逐项说明实施了什么、何时实施、面向哪些学生，以及支持材料位置。】"
+    },
+    {
+      "index": 177,
+      "kind": "paragraph",
+      "text": "【效果核验：列示可比指标及变化；缺少上一轮数据或实施记录时说明不能完成的比较。】"
+    },
+    {
+      "index": 178,
+      "kind": "paragraph",
+      "text": ""
+    },
+    {
+      "index": 179,
+      "kind": "paragraph",
+      "text": "7 持续性改进措施"
+    },
+    {
+      "index": 180,
+      "kind": "paragraph",
+      "text": "（1）针对【本轮问题1】，拟采取【具体措施】，面向【对象】，由【责任人】于【时间】实施，以【可检验指标】核验改进效果。"
+    },
+    {
+      "index": 181,
+      "kind": "paragraph",
+      "text": "（2）针对【本轮问题2】，拟采取【具体措施】，面向【对象】，由【责任人】于【时间】实施，以【可检验指标】核验改进效果。"
+    },
+    {
+      "index": 182,
+      "kind": "paragraph",
+      "text": "（3）针对【本轮问题3】，拟采取【具体措施】，面向【对象】，由【责任人】于【时间】实施，以【可检验指标】核验改进效果。"
+    },
+    {
+      "index": 183,
+      "kind": "paragraph",
+      "text": "【必要的补充说明：数据缺项的补充安排、复核时间或后续跟踪计划。】"
+    },
+    {
+      "index": 184,
+      "kind": "paragraph",
+      "text": "评价人：【签名留空，由本人签署】                 日期：【评价日期】"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": "public_source_bound_preparation_v1",
+  "max_length": 4096,
+  "training_config": "configs/training_continue.json",
+  "validation_course_names": ["你的验证课程名称"],
+  "include_successful_production_traces": false,
+  "courses": [
+    {
+      "run": "outputs/your_train_course",
+      "paragraphs": ["请替换为对照本课材料审核的教学方式正文；每种方式一段，不写方式标题。"],
+      "goal_methods": {
+        "G1": [["M1"], "请替换为本课活动实际支撑目标的理由与边界。"]
+      }
+    },
+    {
+      "run": "outputs/your_validation_course",
+      "paragraphs": ["请按验证课程的实际教学方式填写，不能直接复制训练课程的答案。"],
+      "goal_methods": {
+        "G1": [["M1"], "请对照验证课程本身的活动与目标填写理由。"]
+      }
+    }
+  ]
+}

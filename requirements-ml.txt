@@ -1,0 +1,10 @@
+# GPU依赖清单；先单独安装适配驱动/CUDA的PyTorch，参见docs/ENVIRONMENT.md。
+# 本清单不是GPU版本锁，也不包含模型权重。
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+safetensors
+fastapi
+uvicorn

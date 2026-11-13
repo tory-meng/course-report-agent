@@ -1,0 +1,14 @@
+{
+  "template_registry": "configs/template_registry.json",
+  "model": {
+    "base_url": "http://127.0.0.1:18000",
+    "expected_model_path": "models/base_model",
+    "expected_adapter_path": "models/report_adapter",
+    "expected_bits": 8,
+    "max_new_tokens": 2048,
+    "timeout_seconds": 3600,
+    "expected_adapter_sha256": {}
+  },
+  "chart_font_path": null,
+  "libreoffice": null
+}

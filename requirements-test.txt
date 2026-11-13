@@ -1,0 +1,3 @@
+-r requirements-docagent.txt
+-r requirements-structured.txt
+Pillow>=10
